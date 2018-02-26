@@ -1,9 +1,9 @@
 
 # Bài tập Trainee Colombo 2018
 
-## Todolist-KHANHLQ
+## Draw.io-KHANHLQ
 
-Tạo một phiên bản to do list cơ bản.
+Vẽ lại bài tập 1.5 .16.
 
 Thực hiện bởi [Lưu Quốc Khánh](https://github.com/kpmquockhanh)
 
@@ -13,8 +13,7 @@ Thực hiện bởi [Lưu Quốc Khánh](https://github.com/kpmquockhanh)
           http://todomvc.com/examples/jquery/#/all
 
 - Bài làm: 
- - https://kpmquockhanh.github.io/Todolist-KHANHLQ/jquery
- - https://kpmquockhanh.github.io/Todolist-KHANHLQ/non-jquery
+ - https://github.com/colombo-trainee/Draw.io-KHANHLQ
 
 ## Hướng dẫn cài đặt test/sử dụng nếu có
 
@@ -22,7 +21,7 @@ Thực hiện bởi [Lưu Quốc Khánh](https://github.com/kpmquockhanh)
 
 ## Kiến thức nắm được
 
-Cách tạo nên một ứng dụng to do list
+Sử dụng cơ bản draw.io
 
 ## Todo
 
